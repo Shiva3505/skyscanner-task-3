@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Flightscry</string>
+    <string name="title_itinerary">Upcoming Flight Itinerary</string>
+    
+    <!-- Flight Card -->
+    <string name="card_flight_title">Flight Information</string>
+    <string name="flight_number_label">Flight Number</string>
+    <string name="flight_number_val">SK 1842</string>
+    <string name="airline_name">Skyscanner Airways</string>
+
+    <!-- Departure Card -->
+    <string name="card_departure_title">Departure</string>
+    <string name="departure_code">EDI</string>
+    <string name="departure_airport">Edinburgh Airport</string>
+    <string name="departure_time">10:30 AM</string>
+    <string name="departure_date">Thu, 15 Oct 2026</string>
+
+    <!-- Arrival Card -->
+    <string name="card_arrival_title">Arrival</string>
+    <string name="arrival_code">LHR</string>
+    <string name="arrival_airport">London Heathrow Airport</string>
+    <string name="arrival_time">11:45 AM</string>
+    <string name="arrival_date">Thu, 15 Oct 2026</string>
+</resources>
